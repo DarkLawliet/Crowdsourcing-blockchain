@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{\"/campaigns/[CampaignAddress]/requests\":[],\"/\":[],\"/campaigns/[CampaignAddress]\":[],\"/campaigns/[CampaignAddress]/requests/new\":[]},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
